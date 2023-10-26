@@ -1,0 +1,30 @@
+name: new issue
+
+on:
+  issues:
+    types:
+      - opened
+
+  workflow_dispatch:
+
+jobs:
+  add-new-feedback:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v2
+
+      - name: Change README.md
+        run: |
+          time=$(date +%F -d "${{github.event.issue.updated_at}}")
+          echo "- [${{ github.event.issue.title}}](${{github.event.issue.html_url}}) $time" >> README.md
+      - name: Commit files
+        run: |
+          git config --local user.name ${{ github.actor }}
+          git config --local user.email "bot@taoist.dev"
+          git add README.md
+          git commit -m "submit new feedback (Automated)"
+      - name: Push changes
+        uses: ad-m/github-push-action@master
+        with:
+          github_token: ${{ secrets.GITHUB_TOKEN }}
+          force: true
