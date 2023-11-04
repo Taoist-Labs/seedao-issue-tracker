@@ -10,3 +10,4 @@ Please feel free to submit your ideas or feedback through [GitHub issue](https:/
 All the feedbacks as listed below:  
 - [Feedback - SeePass一键分享到Twitter](https://github.com/Taoist-Labs/seedao-issue-tracker/issues/31) 2023-10-30
 - [Feedback - 无法链接钱包](https://github.com/Taoist-Labs/seedao-issue-tracker/issues/32) 2023-11-01
+- [Feedback - 金库列表查询](https://github.com/Taoist-Labs/seedao-issue-tracker/issues/33) 2023-11-04
