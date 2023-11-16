@@ -16,3 +16,4 @@ All the feedbacks as listed below:
 - [Feedback - 建议酒馆数据按照状态分类聚合](https://github.com/Taoist-Labs/seedao-issue-tracker/issues/36) 2023-11-11
 - [Feedback - 反馈页面授权 github 后，填写内容不见](https://github.com/Taoist-Labs/seedao-issue-tracker/issues/37) 2023-11-16
 - [Feedback - 访问分享链接登录后空白，刷新页面空白](https://github.com/Taoist-Labs/seedao-issue-tracker/issues/38) 2023-11-16
+- [Feedback - UI 优化](https://github.com/Taoist-Labs/seedao-issue-tracker/issues/39) 2023-11-16
