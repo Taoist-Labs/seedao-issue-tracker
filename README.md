@@ -20,3 +20,4 @@ All the feedbacks as listed below:
 - [Feedback - 链接钱包问题](https://github.com/Taoist-Labs/seedao-issue-tracker/issues/40) 2023-11-19
 - [Feedback - 意见反馈链接钱包](https://github.com/Taoist-Labs/seedao-issue-tracker/issues/41) 2023-11-19
 - [Feedback - 侧边栏出现遮挡](https://github.com/Taoist-Labs/seedao-issue-tracker/issues/42) 2023-11-19
+- [Feedback - SEED没显示出来](https://github.com/Taoist-Labs/seedao-issue-tracker/issues/44) 2023-11-20
