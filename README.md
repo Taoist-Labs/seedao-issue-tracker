@@ -22,3 +22,4 @@ All the feedbacks as listed below:
 - [Feedback - 侧边栏出现遮挡](https://github.com/Taoist-Labs/seedao-issue-tracker/issues/42) 2023-11-19
 - [Feedback - SEED没显示出来](https://github.com/Taoist-Labs/seedao-issue-tracker/issues/44) 2023-11-20
 - [Feedback - 侧边栏增加Seed NFT入口](https://github.com/Taoist-Labs/seedao-issue-tracker/issues/45) 2023-11-22
+- [Feedback - 首页 seed 持有者展示为 0](https://github.com/Taoist-Labs/seedao-issue-tracker/issues/46) 2023-11-29
