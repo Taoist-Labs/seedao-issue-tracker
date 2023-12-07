@@ -26,3 +26,4 @@ All the feedbacks as listed below:
 - [Feedback - 活动详情页展示 UI 问题](https://github.com/Taoist-Labs/seedao-issue-tracker/issues/47) 2023-11-30
 - [Feedback - seed图片链接无法显示](https://github.com/Taoist-Labs/seedao-issue-tracker/issues/48) 2023-12-01
 - [Feedback - 积分，SBT信息，未更新](https://github.com/Taoist-Labs/seedao-issue-tracker/issues/49) 2023-12-01
+- [Feedback - 个人积分路径展示](https://github.com/Taoist-Labs/seedao-issue-tracker/issues/50) 2023-12-07
