@@ -30,3 +30,4 @@ All the feedbacks as listed below:
 - [Feedback - 资源申请中提交申请后无进度显示，无反馈](https://github.com/Taoist-Labs/seedao-issue-tracker/issues/51) 2023-12-08
 - [Feedback - 这句话就没有这么排版的](https://github.com/Taoist-Labs/seedao-issue-tracker/issues/52) 2023-12-08
 - [Feedback - 应用列表中应用名称拼写问题](https://github.com/Taoist-Labs/seedao-issue-tracker/issues/53) 2023-12-12
+- [Feedback - SNS 注册失败](https://github.com/Taoist-Labs/seedao-issue-tracker/issues/54) 2023-12-15
