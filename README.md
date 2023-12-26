@@ -32,3 +32,4 @@ All the feedbacks as listed below:
 - [Feedback - 应用列表中应用名称拼写问题](https://github.com/Taoist-Labs/seedao-issue-tracker/issues/53) 2023-12-12
 - [Feedback - SNS 注册失败](https://github.com/Taoist-Labs/seedao-issue-tracker/issues/54) 2023-12-15
 - [Feedback - SNS输入已存在用户名但无明显反馈](https://github.com/Taoist-Labs/seedao-issue-tracker/issues/55) 2023-12-15
+- [Feedback - Wiki中的“播客”显示内容错误](https://github.com/Taoist-Labs/seedao-issue-tracker/issues/56) 2023-12-26
