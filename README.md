@@ -35,3 +35,4 @@ All the feedbacks as listed below:
 - [Feedback - Wiki中的“播客”显示内容错误](https://github.com/Taoist-Labs/seedao-issue-tracker/issues/56) 2023-12-26
 - [Feedback - SBT无法显示，报错图片无法上传](https://github.com/Taoist-Labs/seedao-issue-tracker/issues/57) 2024-01-15
 - [Feedback - treasury 页面图标展示失败](https://github.com/Taoist-Labs/seedao-issue-tracker/issues/58) 2024-02-03
+- [Feedback - Web 3](https://github.com/Taoist-Labs/seedao-issue-tracker/issues/59) 2024-02-08
