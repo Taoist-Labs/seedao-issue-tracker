@@ -36,3 +36,4 @@ All the feedbacks as listed below:
 - [Feedback - SBT无法显示，报错图片无法上传](https://github.com/Taoist-Labs/seedao-issue-tracker/issues/57) 2024-01-15
 - [Feedback - treasury 页面图标展示失败](https://github.com/Taoist-Labs/seedao-issue-tracker/issues/58) 2024-02-03
 - [Feedback - Web 3](https://github.com/Taoist-Labs/seedao-issue-tracker/issues/59) 2024-02-08
+- [Feedback - google浏览器登录出现问题](https://github.com/Taoist-Labs/seedao-issue-tracker/issues/60) 2024-02-20
