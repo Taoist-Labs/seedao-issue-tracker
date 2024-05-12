@@ -38,3 +38,4 @@ All the feedbacks as listed below:
 - [Feedback - Web 3](https://github.com/Taoist-Labs/seedao-issue-tracker/issues/59) 2024-02-08
 - [Feedback - google浏览器登录出现问题](https://github.com/Taoist-Labs/seedao-issue-tracker/issues/60) 2024-02-20
 - [Feedback - Hdjeuijjj](https://github.com/Taoist-Labs/seedao-issue-tracker/issues/61) 2024-03-18
+- [Feedback - discord 链接失效了](https://github.com/Taoist-Labs/seedao-issue-tracker/issues/63) 2024-05-12
