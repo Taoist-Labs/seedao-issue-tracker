@@ -41,3 +41,4 @@ All the feedbacks as listed below:
 - [Feedback - discord 链接失效了](https://github.com/Taoist-Labs/seedao-issue-tracker/issues/63) 2024-05-12
 - [Feedback - 个人信息提交，twitter链接报错](https://github.com/Taoist-Labs/seedao-issue-tracker/issues/64) 2024-06-09
 - [Feedback - 扫码登录钱包](https://github.com/Taoist-Labs/seedao-issue-tracker/issues/65) 2024-12-09
+- [Feedback - 登录唤起小狐狸失败](https://github.com/Taoist-Labs/seedao-issue-tracker/issues/66) 2025-04-02
